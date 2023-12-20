@@ -1,0 +1,5 @@
+edge_warping
+damaged
+taint
+foreign_matter
+misprint

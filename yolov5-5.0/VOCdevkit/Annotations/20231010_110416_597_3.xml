@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>20231010_110416_597_3.jpg</filename>
+	<path>C:\Program Files\VOC007\JPEGImages\20231010_110416_597_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>edge_warping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>89</ymin>
+			<xmax>762</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>
